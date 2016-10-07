@@ -11,7 +11,7 @@
     ''',
     'demo': [],
     'data': [
-            'view_report_invoice.xml',
+            'report_invoice.xml',
     ],
     'test': [],
     'depends': ['base', 'sale', 'account', 'mrp'],
